@@ -1,0 +1,73 @@
+*{
+	margin: 0 auto;	
+	color: #424949;
+
+}
+#mainbody{
+	margin-top: 20px;
+	width: 660px;
+	height: 620px;
+	
+	position: relative;
+	-webkit-box-shadow: 1px 1px 52px -7px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 1px 52px -7px rgba(0,0,0,0.75);
+box-shadow: 1px 1px 52px -7px rgba(0,0,0,0.75);
+}
+
+#content{
+	position: absolute;
+	margin: 31px 0px 0px 35px;
+	width: 590px;
+	height: 560px;
+	
+}
+#content h3{
+	    margin-left: 274px;
+    font-size: 27px;
+}
+#content img{
+	height: 310px;
+    width: 250px;
+    float: left;
+    -webkit-box-shadow: 1px 1px 41px -13px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 1px 41px -13px rgba(0,0,0,0.75);
+box-shadow: 1px 1px 41px -13px rgba(0,0,0,0.75);
+}
+#content ul{
+margin-left: 215px;
+margin-top: 25px;
+
+}
+#content ul li{
+list-style: none;
+font-size: 24px;
+background-color: #f0f0f0;
+}
+#content ul li h5 {
+padding: 12px; */
+    margin-left: 10px;
+    border: 1px solid white;
+    margin-top: 2px;
+}
+#content ul li h5 strong{
+
+}
+
+#content p{
+	margin-top: 15px;
+	padding: 3px;
+	font-size: 18px;
+	color: #626567;
+}
+.button{
+	 border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #555555;
+}

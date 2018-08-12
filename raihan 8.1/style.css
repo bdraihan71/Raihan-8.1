@@ -1,0 +1,344 @@
+*{
+	margin: 0 auto;	
+
+}
+body{
+	background-image: url("img/1.jpg");
+	background-size: cover; 
+
+}
+
+
+
+#container{
+	width: 1060px;
+	height: 505px;
+	/*background-color: green;*/
+	margin-top: 75px;
+}
+
+/*About me section start*/
+.aboutme{
+height: 155px;
+width:340px;
+background-color: #3498DB;
+float: left;
+margin:10px 5px 5px 10px;
+color: white;
+position: relative;
+
+}
+.aboutme:hover{
+	height: 155px;
+width:340px;
+float: left;
+margin:6px 1px 1px 6px;
+border: 4px solid #5DADE2;
+}
+
+.title{
+
+    margin: 122px 0px 0px 5px;
+    font-size: 20px;
+    padding: 5px;
+    color: white;
+
+}
+
+
+.abouticon{
+	position: absolute;
+	 margin: 37px 0px 0px 130px;
+	 color: #D6EAF8;
+}
+
+/*my skills section start*/
+.myskills{
+   height: 155px;
+	width:340px;
+	background-color: #C0392B;
+	float: left;
+	margin: 10px 5px 5px 5px;
+}
+.myskills:hover{
+	height: 155px;
+    width:340px;
+    float: left;
+    margin:6px 1px 1px 1px;
+    border: 4px solid #CD6155;
+}
+
+.myskillsticon{
+	position: absolute;
+	 margin: 37px 0px 0px 130px;
+	 color: #F9EBEA;
+}
+
+/*academic skills section start	*/
+.academicskills{
+	height: 155px;
+	width:165px;
+	background-color: #D35400;
+	float: left;
+	margin: 10px 5px 5px 5px;
+}
+.academicskills:hover{
+	height: 155px;
+    width:165px;
+    float: left;
+    margin:6px 1px 1px 1px;
+    border: 4px solid #DC7633;
+    }
+.academicicon{
+	position: absolute;
+	margin: 35px 0px 0px 50px;
+	color: #FBEEE6;
+}
+
+/*facebook section start*/
+.facebook{
+height: 72.5px;
+	width:77.5px;
+	background-color: #3B5998;
+	float: left;
+	margin:10px 5px 5px 5px;
+	}
+.facebook:hover{
+	height: 72.5px;
+	width:77.5px;
+    float: left;
+    margin:6px 1px 1px 1px;
+    border: 4px solid #526996;
+    }
+.facebookicon{
+	position: absolute;
+	margin: 16px 0px 0px 25px;
+	color: white;
+}	
+/*googleplus section start	*/
+.googleplus{
+height: 72.5px;
+	width:77.5px;
+	background-color: #d34836;
+	float: left;
+	margin:10px 10px 5px 5px ;
+}
+.googleplus:hover{
+	height: 72.5px;
+	width:77.5px;
+    float: left;
+    margin:6px 1px 1px 1px;
+    border: 4px solid #db6255;
+    }
+.googleplusicon{
+	position: absolute;
+	margin: 16px 0px 0px 10px;
+	color: white;
+}	
+/*linkedin section start*/
+.linkedin{
+height: 72.5px;
+	width:77.5px;
+	background-color: #007bb6;
+	float: left;
+	margin: 5px 5px 5px 5px;
+	
+}
+.linkedin:hover{
+	height: 72.5px;
+	width:77.5px;
+    float: left;
+    margin:1px 1px 1px 1px;
+    border: 4px solid #478dad;
+    }
+.linkedinicon{
+	position: absolute;
+	margin: 10px 0px 0px 20px;
+	color: white;
+}
+/*twitter section start	*/
+.twitter{
+height: 72.5px;
+	width:77.5px;
+	background-color: #429cd6;
+	float: left;
+	margin: 5px 10px 5px 5px;
+	
+}
+.twitter:hover{
+	height: 72.5px;
+	width:77.5px;
+    float: left;
+    margin:1px 6px 1px 1px;
+    border: 4px solid #61a7d3;
+    }
+.twittericon{
+	position: absolute;
+	margin: 13px 0px 0px 18px;
+	color: white;
+}
+/*project section start*/
+.project{
+height: 155px;
+width:340px;
+background-color: #6C3483;
+float: left;
+margin: 5px 5px 5px 10px;
+}
+.project:hover{
+	height: 155px;
+width:340px;
+float: left;
+margin:1px 1px 1px 6px;
+border: 4px solid #7D3C98;
+}
+.projecticon{
+	position: absolute;
+	 margin: 37px 0px 0px 130px;
+	 color: #F4ECF7;
+}
+/*resume section start*/
+.resume{
+height: 155px;
+width:165px;
+background-color: #B7950B;
+float: left;
+margin: 5px 5px 5px 5px;
+}
+.resume:hover{
+	height: 155px;
+    width:165px;
+    float: left;
+    margin:1px 1px 1px 1px;
+    border: 4px solid #D4AC0D;
+    }
+.resumeicon {
+    position: absolute;
+    margin: 35px 0px 0px 50px;
+    color: #FEF9E7;
+}
+/*gallery section start	*/
+.gallery{
+	height: 155px;
+width:165px;
+background-color: #117864;
+float: left;
+margin: 5px 5px 5px 5px;
+}
+.gallery:hover{
+	height: 155px;
+    width:165px;
+    float: left;
+    margin:1px 1px 1px 1px;
+    border: 4px solid #148F77;
+    }
+.galleryicon {
+    position: absolute;
+    margin: 35px 0px 0px 50px;
+    color: #E8F8F5;
+}
+/*clients section start	*/
+.clients{
+	height: 155px;
+width:340px;
+background-color: #212F3C;
+float: left;
+margin: 5px 10px 5px 5px;
+}
+.clients:hover{
+	height: 155px;
+width:340px;
+float: left;
+margin:1px 6px 1px 1px;
+border: 4px solid #283747;
+}
+
+.clientsicon{
+	position: absolute;
+	 margin: 37px 0px 0px 130px;
+	 color: #EBEDEF;
+}
+/*services section start	*/
+.services{
+height: 155px;
+width:165px;
+background-color: #6E2C00;
+float: left;
+margin: 5px 5px 10px 10px;
+
+}
+.services:hover{
+	height: 155px;
+    width:165px;
+    float: left;
+    margin:1px 1px 6px 6px;
+    border: 4px solid #873600;
+    }
+.servicesicon {
+    position: absolute;
+    margin: 35px 0px 0px 50px;
+    color: #FBEEE6;
+}
+/*prices section start*/
+.prices{
+
+	height: 155px;
+	width:165px;
+	background-color: #f29500;
+	float: left;
+	margin: 5px 5px 10px 5px;
+}
+.prices:hover{
+	height: 155px;
+    width:165px;
+    float: left;
+    margin:1px 1px 6px 1px;
+    border: 4px solid #e09421;
+    }
+.pricesicon {
+    position: absolute;
+    margin: 35px 0px 0px 50px;
+    color: #fffbf7;
+}
+/*blog section start*/
+.blog{
+height: 155px;
+width:340px;
+background-color: #424949;
+float: left;
+margin: 5px 5px 10px 5px;
+}
+.blog:hover{
+	height: 155px;
+width:340px;
+float: left;
+margin:1px 1px 6px 1px;
+border: 4px solid #515A5A;
+}
+
+.blogicon{
+	position: absolute;
+	 margin: 37px 0px 0px 130px;
+	 color: #F2F4F4;
+}
+/*contact me  section start*/
+.contactme{
+height: 155px;
+width:340px;
+background-color: #196F3D;
+float: left;
+margin: 5px 10px 10px 5px;
+}
+.contactme:hover{
+	height: 155px;
+width:340px;
+float: left;
+margin:1px 1px 6px 1px;
+border: 4px solid #1E8449;
+}
+
+.contactmeicon{
+	position: absolute;
+	 margin: 37px 0px 0px 130px;
+	 color: #D4EFDF;
+}
